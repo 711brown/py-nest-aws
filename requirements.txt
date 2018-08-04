@@ -1,0 +1,2 @@
+python-nest==4.0.3
+boto3
